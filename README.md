@@ -1,4 +1,4 @@
-# sales-dashboard
+# Sales-dashboard
 Excel Sales Dashboard with interactive filters and visualizations
 # 📊 Excel Sales Dashboard
 
